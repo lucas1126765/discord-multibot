@@ -1,5 +1,4 @@
-# Discord 多功能機器人 🤖
-👉 [✅ 邀請 MultiBot](https://discord.com/oauth2/authorize?client_id=1379235784246300744&scope=bot&permissions=2147576832)
+# Discord 多功能機器人 🤖👉 [點我邀請 MultiBot](https://discord.com/oauth2/authorize?client_id=1379235784246300744&scope=bot&permissions=2147609632)
 ## 功能
 - `!ping` 測試延遲
 - `!help` 顯示指令
